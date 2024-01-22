@@ -1,0 +1,8 @@
+[deps]
+ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
